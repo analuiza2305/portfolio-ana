@@ -71,6 +71,14 @@ const projects = [
     link: "https://imaginative-kelpie-344992.netlify.app/",
     github: "https://github.com/analuiza2305/Track-mach"
   },
+   {
+    type: "Gerenciamento de Vendas e Prospecções",
+    title: "Gerenciamento de vendas e prospecções - Centralizando tudo o que sua empresa necessita",
+    description: "Este sistema foi desenvolvido para atender às necessidades da empresa Fauko, oferecendo uma solução prática e eficiente para gestão comercial, acompanhamento de desempenho e organização do processo de vendas em uma única plataforma.",
+    stack: ["HTML", "CSS", "JS", "Firebase"],
+    link: "https://fauko.netlify.app/",
+    github: "https://github.com/analuiza2305/fauko-vendas-prospeccao"
+  },
   {
     type: "L.A.R - Venturus 2025",
     title: "L.A.R - Lugar de Acolhimento e Recomeços",
